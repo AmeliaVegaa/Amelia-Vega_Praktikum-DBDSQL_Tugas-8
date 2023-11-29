@@ -1,5 +1,7 @@
 # UNION AND SUBQUERY IN SQL
 Praktikum 6 - Amelia Vega - 225150600111021 - DBDSQL Kelas A
+
+(Tugas di GCR)
 #
 #
 Praktikan mendownload `code.sql` lalu menunggu proses insert hingga selesai. Kemudian, praktikan menggunakan sintaks `use` untuk mengquery schema `AKADEMIK`.
